@@ -8,10 +8,10 @@ import { MonumentLayout } from './monumentLayer';
 import {Layer} from '../reducers';
 
 const Map = ReactMapboxGl({
-  accessToken: 'pk.eyJ1IjoibG91aXNjdXJyaWUiLCJhIjoiY3MwR3B3QSJ9._5UXyjEIY0YisuAz9c_tJA'
+  accessToken: 'pk.eyJ1Ijoic2t5d29ya3MiLCJhIjoiZk1hMzJaQSJ9.CJ7CCtsEBpzDYWq7CSfCFg'
 });
 
-const mapStyle = 'mapbox://styles/louiscurrie/cizcq06l600292so15ydwjckr';
+const mapStyle = 'mapbox://styles/skyworks/cjka9ifk6a3aq2rlk656sai0r';
 
 const styles = {
   map: {
