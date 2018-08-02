@@ -1,7 +1,7 @@
 {  
     "id":"25835c9b-5d86-4d5c-bef2-6bc557324453",
     "title":"Hotels",
-    "icon":"https://s3.amazonaws.com/walesway/Wales+compass+logo.png",
+    "icon":"star-15",
     "type":"FeatureCollection",
     "features":[  
         {  
