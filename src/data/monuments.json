@@ -1,5 +1,5 @@
 {
-    "id":"25835c9b-5d86-4d5c-bef2-test1",
+    "id":"25835c9b-5d86-4d5c-bef2-6bc557323323",
     "title":"Tours",
     "icon":"castle-15",
     "type":"FeatureCollection",
@@ -99,8 +99,8 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                     -4.097332,
-                     52.914499
+                     -4.108902,
+                     52.859998
                 ]
             },
             "properties":{
@@ -334,36 +334,7 @@
             },
             "id":"wxtest1ramseyisland"
         },
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                     -5.265995,
-                     51.881227
-                ]
-            },
-            "properties":{
-                "Ref":"",
-                "Loc":"12 - St David's",
-                "Info":"Lorem ipsum dolor sit amet, eu vel aperiri vocibus electram. Velit minimum voluptatum has ex, no ius porro aperiri legendos, eum ex amet eripuit deseruisse. Et eam aliquam pericula, vix te affert accumsan offendit. Ad mea errem dicam tollit, verear deserunt constituam quo ut, no quis modus tritani nec.",
-                "still":"https://s3.amazonaws.com/skyworks-wx/still12.jpg",
-                "Media":[
 
-                    {
-                        "type":"video",
-                        "url":"https://s3.amazonaws.com/skyworks-wx/12-4.m4v"
-                    }
-                ],
-                "Links":[
-                    {
-                        "id":"TO BE INSERTED",
-                        "title":"Go to the next clip - Solva & Iron Age Defences"
-                    }
-                ]
-            },
-            "id":"wxtest1stdavids"
-        },
         {
             "type":"Feature",
             "geometry":{
@@ -442,7 +413,7 @@
 
                     {
                         "type":"video",
-                        "url":"https://s3.amazonaws.com/skyworks-wx/14-7.m4v"
+                        "url":"https://s3.amazonaws.com/skyworks-wx/14-6.m4v"
                     }
                 ],
                 "Links":[
@@ -472,7 +443,7 @@
 
                     {
                         "type":"video",
-                        "url":"https://s3.amazonaws.com/skyworks-wx/15-8.m4v"
+                        "url":"https://s3.amazonaws.com/skyworks-wx/15-7.m4v"
                     }
                 ],
                 "Links":[
@@ -502,7 +473,7 @@
 
                     {
                         "type":"video",
-                        "url":"https://s3.amazonaws.com/skyworks-wx/16-9.m4v"
+                        "url":"https://s3.amazonaws.com/skyworks-wx/16-8.m4v"
                     }
                 ],
                 "Links":[
@@ -532,7 +503,7 @@
 
                     {
                         "type":"video",
-                        "url":"https://s3.amazonaws.com/skyworks-wx/17-10.m4v"
+                        "url":"https://s3.amazonaws.com/skyworks-wx/17-9.m4v"
                     }
                 ],
                 "Links":[
